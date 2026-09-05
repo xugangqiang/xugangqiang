@@ -39,7 +39,7 @@
 
 ## What I Do
 
-20+ years building **high-concurrency backend systems** across banking, e-commerce, adtech, and AI infrastructure.
+20+ years building **high-concurrency backend systems** across banking, e-commerce, recommendation systems, and AI infrastructure.
 
 - Currently at **InfiniFlow** — architecting RAGFlow's Go ingestion pipeline: parsing, chunking, tokenization, and extraction.
 - Previously at **Morgan Stanley · NVIDIA · Coupang · iQIYI**, from enterprise Java delivery to architecting 0→1 platforms.
