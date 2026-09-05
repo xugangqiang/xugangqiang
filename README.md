@@ -58,24 +58,12 @@
 
 ## Experience
 
-**InfiniFlow** · Backend Architect · *2026 — Present*
-Led RAGFlow's document-parsing engine migration **Python → Go**, rewriting the low-level PDF parser for better layout accuracy and throughput. Designed a **DAG-based parsing framework** of composable, reusable operators.
-
-**NVIDIA** · Engineer · *2024 — 2025*
-Autonomous-driving data labeling platform — Recipe spec system in **Go + PostgreSQL** defining inter-task dependencies, with an **Airflow** execution engine handling scheduling, retries, and live status dashboards.
-
-**Coupang** · Architect · *2020 — 2023*
-Food-delivery recommendation **0→1**: full retrieval → filtering → ranking pipeline, real-time/offline data paths (Hive/Kafka/ES/Redis), **MMR** diversity, ES dual-link DR. Conversion **+20%**.
-Marketing push revamp: unified SMS/email/in-app abstraction — server footprint **−50%**, throughput **+20%**.
-
-**iQIYI** · Recommendation Tech Lead / Architect · *2019 — 2020*
-Short-video recommendation through **DAU 2M → 5M**; average watch time **24 → 34 min**, launched livestream recommendation. Built the recommendation middle platform processing **1B+ records/day**, migrating in-house frameworks onto Flink.
-
-**Morgan Stanley** · Asia Emerging Markets Tech Lead · *2014 — 2019*
-Built the **SGX clearing system** from scratch — leased lines, asymmetric encryption, IBM MQ, three-way reconciliation. Led India **DRR** regulatory reporting as sole technical liaison to regulators and custody banks, cutting the report cycle from **8 → 5 days**. Built the MSDP heterogeneous ETL platform on Hazelcast + ZooKeeper; led the JDK 5 → 8 upgrade.
-
+**InfiniFlow** · Backend Architect · *2026 — Present*<br>
+**NVIDIA** · Engineer · *2024 — 2025*<br>
+**Coupang** · Architect · *2020 — 2023*<br>
+**iQIYI** · Recommendation Tech Lead / Architect · *2019 — 2020*<br>
+**Morgan Stanley** · Asia Emerging Markets Tech Lead · *2014 — 2019*<br>
 **HP · EMC · Wipro** · Senior Engineer / Team Lead · *2004 — 2014*
-Enterprise-grade Java delivery across global IT vendors — the foundation for everything above.
 
 ---
 
