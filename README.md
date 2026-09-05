@@ -12,7 +12,7 @@
  ╚════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&center=true&width=620&lines=Technical+Architect+%2F+Team+Lead;Distributed+Systems+%26+Big+Data;RAGFlow+DeepDoc+rebuilt+in+Go">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&center=true&width=620&lines=Technical+Architect+%2F+Team+Lead;Distributed+Systems+%26+Big+Data;RAGFlow+ingestion+pipeline+in+Go">
 
 <br>
 
@@ -41,7 +41,7 @@
 
 20+ years building **high-concurrency backend systems** across banking, e-commerce, adtech, and AI infrastructure.
 
-- Currently at **InfiniFlow** — architecting the RAGFlow backend, including the DeepDoc document parsing engine.
+- Currently at **InfiniFlow** — architecting RAGFlow's Go ingestion pipeline: parsing, chunking, tokenization, and extraction.
 - Previously at **Morgan Stanley · NVIDIA · Coupang · iQIYI**, from enterprise Java delivery to architecting 0→1 platforms.
 
 ---
