@@ -42,7 +42,7 @@
 20+ years building **high-concurrency backend systems** across banking, e-commerce, adtech, and AI infrastructure.
 
 - Currently at **InfiniFlow** — architecting the RAGFlow backend, including the DeepDoc document parsing engine.
-- Previously at **Morgan Stanley · NVIDIA · Coupang · Shopee · iQIYI**, from enterprise Java delivery to architecting 0→1 platforms.
+- Previously at **Morgan Stanley · NVIDIA · Coupang · iQIYI**, from enterprise Java delivery to architecting 0→1 platforms.
 
 ---
 
@@ -64,15 +64,9 @@ Led RAGFlow's document-parsing engine migration **Python → Go**, rewriting the
 **NVIDIA** · Engineer · *2024 — 2025*
 Autonomous-driving data labeling platform — Recipe spec system in **Go + PostgreSQL** defining inter-task dependencies, with an **Airflow** execution engine handling scheduling, retries, and live status dashboards.
 
-**Ubiquant** · Engineer · *2023 — 2024*
-Clearing task scheduling center — refactored the master-slave topology with automatic failover to remove SPOFs; added client heartbeat monitoring and timeout circuit-breaking, cutting nighttime on-call interventions.
-
 **Coupang** · Architect · *2020 — 2023*
 Food-delivery recommendation **0→1**: full retrieval → filtering → ranking pipeline, real-time/offline data paths (Hive/Kafka/ES/Redis), **MMR** diversity, ES dual-link DR. Conversion **+20%**.
 Marketing push revamp: unified SMS/email/in-app abstraction — server footprint **−50%**, throughput **+20%**.
-
-**Shopee** · Engineer · *2020*
-Coupon sync platform on **Flink** — **+20%** throughput via Redis pipelining and window tuning; fixed read-then-write disorder with KeyBy.
 
 **iQIYI** · Recommendation Tech Lead / Architect · *2019 — 2020*
 Short-video recommendation through **DAU 2M → 5M**; average watch time **24 → 34 min**, launched livestream recommendation. Built the recommendation middle platform processing **1B+ records/day**, migrating in-house frameworks onto Flink.
