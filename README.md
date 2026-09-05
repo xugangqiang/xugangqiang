@@ -48,7 +48,7 @@
 
 ## Core Competencies
 
-**Architecture** — High-concurrency systems · Distributed **DAG** task scheduling · Recommendation & ranking engineering
+**Architecture** — High-concurrency distributed systems
 
 **Data** — Real-time & offline pipelines (**Flink / Hive**) · Relevance & diversity (MMR) · Cost & resource governance
 
